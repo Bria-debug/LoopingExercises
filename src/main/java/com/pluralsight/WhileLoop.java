@@ -9,6 +9,6 @@ public class WhileLoop {
             Spongebob = Spongebob += 1; //step 4: update counter
         }
 
-
+//
     }
 }
